@@ -30,14 +30,14 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @Mrkiller_1109
+🧑🏻‍💻 **Developer:** @subhash
 
-👥 **Support Group:** [Linux Repositories](https://t.me/HP_Bot_discuss_group)
+👥 **Support Group:** [Linux Repositories](https://t.me/moviebank8900)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Hpbot_update)
+📢 **Updates Channel:** [bond](https://t.me/moviebank8900)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @Mrkiller_1109
+🧑🏻‍💻 **Developer:** @subhash
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
